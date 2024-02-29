@@ -18,7 +18,7 @@ Hello, Guest!
 ## API key
 
 ```sh
-curl https://34.96.107.193.nip.io/bs-quote-generato-proxy
+curl https://34.128.140.41.nip.io/bs-quotes
 {"phrase":"Credibly Maximize Premier E-business"}
 ```
 
