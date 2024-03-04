@@ -25,7 +25,7 @@ curl https://34.128.140.41.nip.io/bs-quotes
 Once API key is enforced, it can be passed as a query parameter like so: 
 
 ```sh
-curl 'https://34.96.107.193.nip.io/bs-quote-generato-proxy?apikey=252mZs40eL8jFDhrjwmCl5eAkRK84uAvqAuMRcPqAQJOaaTy'
+curl 'https://34.96.107.193.nip.io/bs-quotes?apikey=PTIeyzllg8SSevathgQmynCKAonnhcY9cLM7jQZjASmjFRQ8'
 {"phrase":"Continually Formulate Collaborative Channels"}
 ```
 
